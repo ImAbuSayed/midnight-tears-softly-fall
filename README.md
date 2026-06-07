@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/midnight-tears-softly-fall/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Midnight Tears Softly Fall](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-tears-softly-fall/) |
+| **Get License** | [Get a Licensing Quote for Midnight Tears Softly Fall](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-tears-softly-fall/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `fb270a1f31a4e7a2cadc6189d722830abae8c21d75a45ae1f5347a6e0ed7542d` |
 | **Timestamp** | June 07, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
